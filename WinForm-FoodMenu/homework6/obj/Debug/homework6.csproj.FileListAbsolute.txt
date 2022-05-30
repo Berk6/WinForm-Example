@@ -1,0 +1,12 @@
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\bin\Debug\homework6.exe.config
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\bin\Debug\homework6.exe
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\bin\Debug\homework6.pdb
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.csproj.AssemblyReference.cache
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.Form1.resources
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.Properties.Resources.resources
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.csproj.GenerateResource.cache
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.exe
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.pdb
+C:\Users\Berk\Desktop\C# Codes\homework6\homework6\obj\Debug\homework6.formSEPET.resources
